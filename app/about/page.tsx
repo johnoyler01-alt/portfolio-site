@@ -75,7 +75,7 @@ export default function About() {
 
           <div className="flex flex-wrap gap-4 mt-8 pt-6 border-t border-zinc-800">
             <a
-              href="https://linkedin.com/in/john-oyler"
+              href="https://www.linkedin.com/in/john-oyler01/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2 bg-zinc-800 hover:bg-zinc-700 rounded-lg text-white transition-colors"

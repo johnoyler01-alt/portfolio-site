@@ -202,7 +202,9 @@ export default function Resume() {
 
         <div className="flex flex-wrap gap-4 mt-8">
           <a
-            href="mailto:john.oyler01@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=john.oyler01@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-2 bg-orange-500 hover:bg-orange-600 rounded-lg text-white transition-colors"
           >
             Contact Me

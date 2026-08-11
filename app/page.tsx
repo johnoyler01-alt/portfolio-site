@@ -143,7 +143,7 @@ export default function Home() {
         <p>© 2026 John Oyler</p>
         <div className="flex gap-6">
           <a
-            href="https://linkedin.com/in/john-oyler"
+            href="https://www.linkedin.com/in/john-oyler01/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
